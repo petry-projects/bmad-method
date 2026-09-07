@@ -6,4 +6,4 @@ go 1.26
 // GO-2026-4946, GO-2026-4947 (crypto/tls and crypto/x509 stdlib security fixes).
 toolchain go1.26.2
 
-require github.com/go-chi/chi/v5 v5.2.4
+require github.com/go-chi/chi/v5 v5.3.0
